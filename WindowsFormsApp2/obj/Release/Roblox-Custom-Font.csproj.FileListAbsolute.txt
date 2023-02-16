@@ -1,0 +1,15 @@
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.manifest
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\bin\Release\WindowsFormsApp2.application
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\obj\Release\Roblox-Custom-Font.csproj.AssemblyReference.cache
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\obj\Release\Roblox-Custom-Font.csproj.SuggestedBindingRedirects.cache
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\obj\Release\Roblox-Custom-Font.csproj.GenerateResource.cache
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\obj\Release\Roblox-Custom-Font.csproj.CoreCompileInputs.cache
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe.manifest
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\obj\Release\WindowsFormsApp2.application
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\TrioByte.DESKTOP-H00CU4E\Source\Repos\MiniYear\Roblox-Custom-Font\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
