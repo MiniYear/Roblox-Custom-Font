@@ -12,6 +12,7 @@ using System.Windows.Forms;
 using System.Drawing.Text;
 using System.Drawing.Imaging;
 using System.Globalization;
+using System.Drawing.Drawing2D;
 
 namespace WindowsFormsApp2
 {
@@ -133,7 +134,9 @@ namespace WindowsFormsApp2
                     y = y + (30 * bitmapMultiplier);
                 }
                 graphics.TextRenderingHint = TextRenderingHint.AntiAlias;
-                graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
+                graphics.CompositingQuality = CompositingQuality.HighQuality;
+                graphics.SmoothingMode = SmoothingMode.HighQuality;
+                graphics.InterpolationMode = InterpolationMode.HighQualityBicubic;
                 graphics.DrawString(alphabet[i].ToString(), font, Brushes.White, new Point(x, y));
 
                 SizeF size = graphics.MeasureString(alphabet[i].ToString(), font);
