@@ -29,7 +29,7 @@ namespace WindowsFormsApp2
 
         private char[] alphabet = new char[26];
         private char[] numericals = new char[10];
-        private char[] extras = new char[31];
+        private char[] extras = new char[30];
 
         private int textSize = 12; // Default text size: 12
 
@@ -88,16 +88,15 @@ namespace WindowsFormsApp2
             extras[18] = '=';
             extras[19] = '}';
             extras[20] = '?';
-            extras[21] = '?';
-            extras[22] = '*';
-            extras[23] = '\\';
-            extras[24] = '-';
-            extras[25] = '_';
-            extras[26] = ';';
-            extras[27] = ':';
-            extras[28] = '`';
-            extras[29] = '~';
-            extras[30] = '<';
+            extras[21] = '*';
+            extras[22] = '\\';
+            extras[23] = '-';
+            extras[24] = '_';
+            extras[25] = ';';
+            extras[26] = ':';
+            extras[27] = '`';
+            extras[28] = '~';
+            extras[29] = '<';
         }
 
         public void createImage()
