@@ -1,0 +1,15 @@
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Roblox-Custom-Font.csproj.AssemblyReference.cache
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Roblox-Custom-Font.csproj.SuggestedBindingRedirects.cache
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Roblox-Custom-Font.csproj.GenerateResource.cache
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Roblox-Custom-Font.csproj.CoreCompileInputs.cache
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+C:\Users\TrioByte.DESKTOP-H00CU4E\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
