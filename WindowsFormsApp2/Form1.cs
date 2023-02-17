@@ -124,6 +124,17 @@ namespace WindowsFormsApp2
 
             myStrings.Add("local module = {}");
             myStrings.Add("");
+            myStrings.Add("-- // Editables \\\\ --");
+            myStrings.Add("");
+            myStrings.Add("module.Spacing = UDim.new(-0.14, 0)");
+            myStrings.Add("module.FillDirection = Enum.FillDirection.Horizontal");
+            myStrings.Add("module.HorizontalAlignment = Enum.HorizontalAlignment.Center");
+            myStrings.Add("module.SortOrder = Enum.SortOrder.LayoutOrder");
+            myStrings.Add("module.VerticalAlignment = Enum.VerticalAlignment.Center");
+            myStrings.Add("module.ImageID = \"rbxassetid://0\"");
+            myStrings.Add("");
+            myStrings.Add("-- // List of characters \\\\ --");
+            myStrings.Add("");
             myStrings.Add("module.List = {");
 
             for (int i = 0; i < alphabet.Length; i++)

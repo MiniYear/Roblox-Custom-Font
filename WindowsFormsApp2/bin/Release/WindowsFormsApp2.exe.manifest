@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WindowsFormsApp2.exe" size="26608">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WindowsFormsApp2.exe" size="27632">
       <assemblyIdentity name="WindowsFormsApp2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Dr4bu/9sgH/7stQrwnQ8qV9gxwJS1KQY4cJfjjqYhtk=</dsig:DigestValue>
+        <dsig:DigestValue>ORn+ELCCpB/+vJ7A7+6yNq7elrX9NcSLKrJiEK/wPYQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
