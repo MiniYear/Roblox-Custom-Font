@@ -13,4 +13,4 @@ Custom Font currently only supports OpenType (.otf) font files.
 6. Create the font image and output positions & sizes
 7. Upload image file as a decal in Roblox
 8. Insert output file in your game as a module. (Preferably use a repository folder)
-9. Use the CustomFont module in Roblox to easily write texts or perhaps create one of your own!
+9. Use the [CustomFont module in Roblox](https://www.roblox.com/library/12528534296/Roblox-Custom-Font-Manager) to easily write texts or perhaps create one of your own!
